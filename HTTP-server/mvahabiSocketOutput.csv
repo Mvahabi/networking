@@ -1,0 +1,3 @@
+Client request server,4-Tuple:,127.0.0.1,49151,127.0.0.1,47778,Requested URL,/hello.html,HTTP/1.1 200 OK,Bytes sent:,83
+Client request server,4-Tuple:,127.0.0.1,49151,127.0.0.1,42796,Requested URL,/hello.html,HTTP/1.1 200 OK,Bytes sent:,83
+Client request server,4-Tuple:,127.0.0.1,49151,127.0.0.1,43294,Requested URL,/hello.html,HTTP/1.1 200 OK,Bytes sent:,83
